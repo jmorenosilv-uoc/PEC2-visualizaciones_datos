@@ -8,13 +8,9 @@ Tres visualizaciones generadas en R Markdown. Los archivos HTML permiten consult
 - Dendrograma circular: circular_dendogram.html / circular_dendogram.Rmd
 - Horizon graph: horizon_graph.html / horizon_graph.Rmd
 
-## Publicación
-
-Subir el contenido de esta carpeta a la raíz de un repositorio público. Activar Settings → Pages → Deploy from a branch → main → /(root).
-
 ## Reproducir
 
-Abrir cada Rmd en RStudio y usar Knit. Se necesitan los paquetes rmarkdown, palmerpenguins, ggplot2, scales, igraph, ggraph y latticeExtra. El dendrograma y el horizon graph descargan datos de Internet.
+En caso de querer reproducir cada visualización, se debe ejecutar cada Rmd en RStudio y usar Knit. Se necesitan los paquetes rmarkdown, palmerpenguins, ggplot2, scales, igraph, ggraph y latticeExtra. El dendrograma y el horizon graph descargan datos de Internet.
 
 ## Fuentes
 
